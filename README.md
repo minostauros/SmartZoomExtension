@@ -1,5 +1,5 @@
 # SmartZoomExtension
-SmartZoom (double tap zoom like in Safari) as an extension 
+SmartZoom (double tap zoom like in Safari) as an extension for Firefox, Chrome, and so on.
 
 [Demo](https://lab.hakim.se/zoom-js/) by Hakim.
 This repo is to turn [zoom.js](smartzoom/zoom.js) into an extension format.
