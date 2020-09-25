@@ -5,9 +5,13 @@ SmartZoom (double tap zoom like in Safari) as an extension for Firefox, Chrome, 
 This repo is to turn [zoom.js](smartzoom/zoom.js) into an extension format.
 
 ## How to install
+### Temporary Installation
 Firefox: [Your first extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#Installing)
 
 Chrome: [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted#manifest)
+
+### Retaining Installation
+Please [Google](https://www.google.com/).
 
 ## How to use
 Shift + Click
