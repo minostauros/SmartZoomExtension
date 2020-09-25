@@ -1,0 +1,12 @@
+{
+   "manifest_version": 2,
+   "browser_action": {
+      "default_icon": "icon.png"
+   },
+   "content_scripts": [ {
+      "js": [ "jquery.min.js", "zoom.js", "addevent.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "name": "SmartZoom",
+   "version": "0.1"
+}
